@@ -40,11 +40,11 @@ An eCommerce platform built with Django, providing a seamless shopping experienc
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/aryash00/ecomm.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd repo
+   cd ecomm
    ```
 3. Set up a virtual environment:
    ```bash
